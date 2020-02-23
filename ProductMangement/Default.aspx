@@ -16,19 +16,19 @@
 
             <div class="section-title">
               <h2>About Us</h2>
-              <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+              <p></p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Start with strategy</a></h4>
+              <p class="description">Create a vivid picture of your vision for the future. Then set the goals and initiatives that you plan on achieving. Do SWOT analysis, articulate value proposition, capture business models, and more with prebuilt strategy templates. Your team will be aligned and able to maintain clear focus.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Prioritize the right features</a></h4>
+              <p class="description">Clearly define what will be built. User story maps help visualize work based on what your customer is trying to do. Set your own prioritization metrics with a custom feature scorecard. Then groom your backlog to choose what will create the most business value.</p>
             </div>
 
           </div>
@@ -45,38 +45,38 @@
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up">
             <span>01</span>
-            <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+            <h4></h4>
+            <p></p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">
             <span>02</span>
-            <h4>Repellat Nihil</h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+            <h4></h4>
+            <p></p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">
             <span>03</span>
-            <h4> Ad ad velit qui</h4>
-            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+            <h4> </h4>
+            <p></p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="300">
             <span>04</span>
-            <h4>Repellendus molestiae</h4>
-            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+            <h4></h4>
+            <p></p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="400">
             <span>05</span>
-            <h4>Sapiente Magnam</h4>
-            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+            <h4></h4>
+            <p></p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="500">
             <span>06</span>
-            <h4>Facilis Impedit</h4>
-            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
+            <h4></h4>
+            <p></p>
           </div>
 
         </div>
@@ -138,33 +138,33 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="icofont-computer"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="icofont-earth"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="icofont-image"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="icofont-settings"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
             <div class="icon"><i class="icofont-tasks-alt"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <h4 class="title"><a href=""></a></h4>
+            <p class="description"></p>
           </div>
         </div>
 
@@ -177,7 +177,7 @@
 
         <div class="section-title">
           <h2>Our Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="row">
@@ -330,7 +330,7 @@
 
         <div class="section-title">
           <h2>Our Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
+          <p></p>
         </div>
 
         <div class="row">
@@ -415,44 +415,44 @@
         <div class="row  d-flex align-items-stretch">
 
           <div class="col-lg-6 faq-item" data-aos="fade-up">
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4></h4>
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              
             </p>
           </div>
 
           <div class="col-lg-6 faq-item" data-aos="fade-up" data-aos-delay="100">
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
+            <h4></h4>
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+              
             </p>
           </div>
 
           <div class="col-lg-6 faq-item" data-aos="fade-up" data-aos-delay="200">
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
+            <h4>?</h4>
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
+            
             </p>
           </div>
 
           <div class="col-lg-6 faq-item" data-aos="fade-up" data-aos-delay="300">
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
+            <h4></h4>
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+              
             </p>
           </div>
 
           <div class="col-lg-6 faq-item" data-aos="fade-up" data-aos-delay="400">
-            <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
+            <h4></h4>
             <p>
-              Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+              
             </p>
           </div>
 
           <div class="col-lg-6 faq-item" data-aos="fade-up" data-aos-delay="500">
-            <h4>Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor?</h4>
+            <h4></h4>
             <p>
-              Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+          
             </p>
           </div>
 
@@ -483,7 +483,7 @@
             <div class="info-box">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@example.com<br>contact@example.com</p>
+              <p>info@dhot.com<br>contact@dhot.com</p>
             </div>
           </div>
 
